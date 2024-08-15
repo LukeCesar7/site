@@ -1,3 +1,3 @@
 <h1 align="center"> GIT com HTML/CSS</h1>
 
-## Projeto iniciante de HTML/CSS para aulas práticas do terminal GIT
+<p align="center">Exercíco básico para compreenção de fundamentos e usabilidade do Terminal GIT </p>
